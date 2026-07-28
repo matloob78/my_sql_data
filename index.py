@@ -13,7 +13,7 @@ if na == "John":
         print("You are eligible to vote!")
 else:
     print("Hello " + na + "!")
-isUser = int(intput("Enter user age"))
+isUser = int(input("Enter user age"))
 if isUser>= 18:
     print("Access")
     if isUser<18:
