@@ -24,3 +24,9 @@ aName = "john"
 bName = "elia"
 print(aName + " and " + bName + " are friends!")
 print(f"{aName} and {bName} are friends!")
+name = ["Mak","sk","dk","fk"]
+89
+99
+100
+80
+78
