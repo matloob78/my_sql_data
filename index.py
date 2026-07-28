@@ -1,1 +1,1 @@
-print("Welcome my first code in PowerShell")
+print("I gusy! how are you?")
