@@ -6,7 +6,7 @@ if age>=18:
 else:
     print("Sorry!")
 
-na = input("Enter your name :")
+na = input("Enter your name's :")
 if na == "John":
     print("Hello John!")
     if age>=18:
@@ -19,3 +19,8 @@ if isUser>= 18:
     if isUser<18:
         print("Denied!")
 print(f"Thank You {isUser}")
+
+aName = "john"
+bName = "elia"
+print(aName + " and " + bName + " are friends!")
+print(f"{aName} and {bName} are friends!")
