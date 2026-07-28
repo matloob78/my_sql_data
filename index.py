@@ -1,3 +1,1 @@
-print(name)
-print(age)
-print(name+age)
+print("Welcome my first code in PowerShell")
